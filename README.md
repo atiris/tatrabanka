@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Refinancovanie
 
-You can use the [editor on GitHub](https://github.com/atiris/tatrabanka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Porovnanie hypoték môžete skúsiť aj na [finančnom kompase](<https://atiris.github.io/tatrabanka/>).
+[Táto stránka](<https://atiris.github.io/tatrabanka/>) obsahuje informácie o postupe pri zadávaní žiadosti o vyčíslenie zostatku hypotéky ak prenášate hypotéku z Tatrabanky. V prípade, ak žiadate o vrátenie nákladov spojených s refinancovaním, tieto informácie vám môžu ušetriť poplatok za zadanie žiadosti v Tatrabanke.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Odporúčaný postup klienta
 
-### Markdown
+Spolu so žiadosťou o vyčíslenie zostatku hypotéky podajte aj žiadosť o vystavenie skutočných nákladov v súvislosti s refinancovaním.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Prečo je potrebné takto postupovať?
 
-```markdown
-Syntax highlighted code block
+Napriek tomu že odpoveď Tatrabanky na Žiadosť o predčasné splatenie hypotéky uvádza "Náklady v súvislosti so splatením úveru" tieto náklady nie sú skutočné a úplné náklady v súvislosti so splatením úveru, a teda ich uvádza štandardne v chybnej výške. Aj napriek upozorneniu na to, že uvedená suma nie je úplná, Tatrabanka dané tlačivo neplánuje upraviť a naďalej vyžaduje od klientov, ktorí chcú mať potvrdenie s reálnymi nákladmi v súvislosti so splatením úveru aby si vyžiadali takéto vyčíslenie osobitnou žiadosťou.
 
-# Header 1
-## Header 2
-### Header 3
+## Štandarný postup Tatrabanky
 
-- Bulleted
-- List
+Tatrabanka pri žiadosti klienta o vyčíslenie zostatku hypotéky postupuje takto:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atiris/tatrabanka/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
