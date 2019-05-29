@@ -32,10 +32,11 @@ v súvislosti s predčasným splatením hypotéky
 
 Dobrý deň,  
 pretože v odpovedi na Žiadosť o zmenu na hypotéke číslo ........,
-neuvádzate skutočné, ale len nesplatené náklady v súvislosti so splatením hypotéky,
-chcel by som Vás požiadať o vyčíslenie skutočných nákladov v súvislosti s predčasným
-splatením hypotéky, ktoré budú obsahovať všetky náklady (splatené aj nesplatené),
-ktoré vznikli v súvislosti s refinancovaním hypotéky.
+neuvádzate skutočné, ale len nesplatené náklady v súvislosti so splatením
+hypotéky, chcel by som Vás požiadať o vyčíslenie skutočných nákladov
+v súvislosti s predčasným splatením hypotéky, ktoré budú obsahovať všetky
+náklady (splatené aj nesplatené), ktoré vznikli v súvislosti
+s refinancovaním hypotéky.
 
 S pozdravom
 
