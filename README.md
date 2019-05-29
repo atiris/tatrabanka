@@ -1,7 +1,6 @@
 # Refinancovanie
 
-Porovnanie hypoték môžete skúsiť aj na [finančnom kompase](<https://atiris.github.io/tatrabanka/>).
-[Táto stránka](<https://atiris.github.io/tatrabanka/>) obsahuje informácie o postupe pri zadávaní žiadosti o vyčíslenie zostatku hypotéky ak prenášate hypotéku z Tatra banky. **V prípade, ak žiadate o vrátenie nákladov spojených s refinancovaním, tieto informácie vám môžu ušetriť poplatok za zadanie žiadosti v Tatra banke.**
+[Táto stránka](<https://atiris.github.io/tatrabanka/>) obsahuje informácie o postupe pri zadávaní žiadosti o vyčíslenie zostatku hypotéky ak prenášate hypotéku z Tatra banky. **V prípade, ak žiadate o vrátenie nákladov spojených s refinancovaním, tieto informácie vám môžu ušetriť sumu vo výške poplatku za zadanie žiadosti v Tatra banke.** Porovnanie hypoték môžete skúsiť aj na [finančnom kompase](<https://atiris.github.io/tatrabanka/>).
 
 ## Odporúčaný postup klienta
 
