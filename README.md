@@ -23,7 +23,7 @@ Tatra banka pri žiadosti klienta o vyčíslenie zostatku hypotéky postupuje ta
 
 ## Ako požiadať o skutočné vyčíslenie
 
-Vypíšte takúto žiadosť a podajte ju spolu so Žiadosťou o zmenu na hypotéke na pobočke Tatra banky:
+Vypíšte takúto žiadosť (stačí ručne, na papier, ktorý vám dajú na pobočke) a podajte ju spolu so Žiadosťou o zmenu na hypotéke na pobočke Tatra banky:
 
 ```txt
 Žiadosť o vyčíslenie skutočných nákladov  
